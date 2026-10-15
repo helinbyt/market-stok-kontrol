@@ -1,0 +1,10 @@
+.DS_Store
+bin/
+obj/
+.vs/
+.vscode/
+__azurite*
+__blobstorage__/
+__queuestorage__/
+local.settings*
+*.user

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketStokAPI", "MarketStokAPI.csproj", "{AAB37371-0EDF-4B7B-8CA8-90487401964B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB37371-0EDF-4B7B-8CA8-90487401964B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB37371-0EDF-4B7B-8CA8-90487401964B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB37371-0EDF-4B7B-8CA8-90487401964B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB37371-0EDF-4B7B-8CA8-90487401964B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D017C73-CD2C-4286-990B-ECDCF758255A}
+	EndGlobalSection
+EndGlobal
